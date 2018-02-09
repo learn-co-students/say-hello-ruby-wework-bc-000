@@ -1,6 +1,8 @@
 # Say Hello
 
 ## Objectives
+Build a method say_hello
+it mentions arguments? what are those again?
 
 1. Build a method that can be called with an optional argument by defining that method with a default argument.
 
