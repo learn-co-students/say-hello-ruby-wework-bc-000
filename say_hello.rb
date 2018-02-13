@@ -1,1 +1,7 @@
-# Build your say_hello method here
+def say_hello = (greeting, name)
+  greeting = hello #{name}
+  name = Gabriela
+end
+  
+say_hello 
+  
